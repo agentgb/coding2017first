@@ -1,0 +1,39 @@
+
+build/
+.idea/
+.gradle/
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#ide config
+.metadata
+.recommenders
+.idea/
+*.iml
+rebel.*
+.rebel.*
+
+target
+*.DS_Store
+liuxin/.DS_Store
+liuxin/src/.DS_Store
+
+
+group18/564673292/src/com/coderising/download/.project
+
+group18/564673292/src/com/coderising/download/.classpath
+
+group18/564673292/out/production/coding2017/com/coderising/download/.project
+
+*.jpg
+
+group18/564673292/out/production/coding2017/com/coderising/download/.classpath
